@@ -1,0 +1,40 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: rgb(52, 74, 95);
+}
+
+.jumbotron {
+  background-color: rgba(199, 216, 219, 0.884);
+  color: rgba(6, 17, 49, 0.863);
+}
+
+h1 {
+  font-family: 'Oleo Script', cursive !important;
+}
+
+p {
+}
+
+code {
+  font-size: 30px;
+  color: black;
+}
+
+h4 {
+  margin-bottom: 50px;
+}
+
+card {
+  align-content: center;
+  background-color: #b0dedb !important;
+}
+
+span {
+  color: rgb(162, 201, 198);
+}
+
+.social {
+  font-size: 20px !important;
+  color: rgb(162, 201, 198);
+  padding-left: 10px;
+}
